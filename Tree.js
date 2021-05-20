@@ -6,7 +6,7 @@ class TreeNode {
         this.price = price;
         this.type = type;
         this.info = info;
-        this.children = []
+        this.children = [];
     }
 
 }
